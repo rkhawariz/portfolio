@@ -1,0 +1,40 @@
+/* * {
+  font-family: "Poppins", sans-serif;
+} */
+
+.jumbotron {
+  padding: 0 rem;
+  background-color: #d5e4fc;
+}
+
+h2 {
+  position: relative;
+}
+h2 span {
+  position: absolute;
+  top: -90px;
+}
+
+.drip {
+  background-color: #d5e4fc;
+}
+
+.jumbotron img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.education {
+  background-color: #d5e4fc;
+}
+
+.portfolio {
+  background-color: #d5e4fc;
+}
+
+.copy {
+  background-color: #050920;
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+}
